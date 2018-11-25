@@ -39,6 +39,7 @@ th{
 	
 }
 .video{
+	float: left;
     margin-right: 25px;
     margin-top: 10px;
 }
@@ -63,17 +64,17 @@ img{
 	padding: 3%;
 	display: block;
 }
+.texts a{
+	padding-bottom: 5px;
+}
 .texts{
 	background-color: rgba(30, 255, 0, 0.49);
 	padding: 1px;
 	border-radius: 30px;
 	height: 100%;
-	width: 100%;
+	display: block;
 	padding-bottom: 15px;
 	border-radius: 80px;
-}
-.texts a{
-	padding-bottom: 5px;
 }
 .look{
 	background-color: #74d949a1;
