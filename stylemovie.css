@@ -57,6 +57,13 @@ th{
 .texts h1{
 	margin: 2px;
 }
+.Movie{
+	float: left;
+	width: 24.7%; 
+	height: 98%;
+	border: 0px solid red;
+	display: block;
+}
 img{
 	border: 1px transparent;
   	border-radius: 80px;
